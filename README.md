@@ -1,8 +1,8 @@
 # Ascendio Project
-- This project consists of a social network with themes: forex, trading, crypto, etc. 
-- Users can create posts and predictions, these predictions can be set as wrong, right or on hold. 
-- Users can follow other users and filter them by the number of correct predictions for example.
-- Users can use the tradingView graphic and play with it. 
+This project consists of a social network with themes: forex, trading, crypto, etc. 
+Users can create posts and predictions, these predictions can be set as wrong, right or on hold. 
+Users can follow other users and filter them by the number of correct predictions for example.
+Users can use the tradingView graphic and play with it. 
 
 ## Prerequisites
 - Have Node installed 
