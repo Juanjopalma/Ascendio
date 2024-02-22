@@ -27,3 +27,7 @@ Users can use the tradingView graphic and play with it.
 
 6. Control + click on the terminal message like this (the port may be different):
    - Local:   http://localhost:5173/
+
+## Videos 
+- You can see my explication of the project in the following link: https://youtu.be/JpCsSxaZwHs?t=890
+- You can see only the functionalities of the project in the following link: https://youtu.be/_eX_SLKFmbQ
