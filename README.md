@@ -13,13 +13,16 @@ Users can use the tradingView graphic and play with it.
 1. Clone this repository to your local machine: 
    - git clone https://github.com/Juanjopalma/Ascendio.git
 
-2. Move to the application folder:
-   - cd API_Countries_Project
+2. Open one console and move to the application folder in :
+   - cd client
+  
+3. Open other console and move to the application folder in :
+   - cd server
 
-4. Install the dependencies:
+4. Install the dependenciesv in each console:
    - npm i
 
-5. Start the application:
+5. Start the application in each console:
    - npm run dev
 
 6. Control + click on the terminal message like this (the port may be different):
