@@ -13,10 +13,10 @@ Users can use the tradingView graphic and play with it.
 1. Clone this repository to your local machine: 
    - git clone https://github.com/Juanjopalma/Ascendio.git
 
-2. Open one console and move to the application folder in :
+2. Open one terminal and move to the application folder in :
    - cd client
   
-3. Open other console and move to the application folder in :
+3. Open other terminal and move to the application folder in :
    - cd server
 
 4. Install the dependenciesv in each console:
