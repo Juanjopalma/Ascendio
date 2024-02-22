@@ -11,7 +11,7 @@ Users can use the tradingView graphic and play with it.
 
 ## Installation
 1. Clone this repository to your local machine: 
-   - git clone https://github.com/Juanjopalma/Front_technical_test.git
+   - git clone https://github.com/Juanjopalma/Ascendio.git
 
 2. Move to the application folder:
    - cd API_Countries_Project
